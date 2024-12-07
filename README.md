@@ -15,6 +15,8 @@
 #### pddlgym/pddlgym/pddl/doors.pddl
 # Michael's PDDL Problem Scripts:
 ### many scripts in this folder:  pddlgym/pddlgym/pddl/door
+# Sample Log:
+### A sample log of a run for 10 scripts for 16 percent fireballs for A* Hff is found in the main folder under the file name "sample_log_16Percent_Astar_HFF.
 # Michael's contributions to package code:
 ### Adding Fireballs, Walls and Person to Output Images:  I added this code throughout the doors.py file at pddlgym/pddlgym/rending/doors.py 
 ### Collecting planning time, search time, nodes evaluated, and nodes expanded:  to do this, I wrote all the code for lines 71-98 of pddlgym/pddlgym/pddlgym planners/pddlgym planners/pddlgym planner.py
