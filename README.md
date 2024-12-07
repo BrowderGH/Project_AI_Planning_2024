@@ -1,7 +1,7 @@
 ### README
 ###
 # Michael's AI Project
-![Image1](https://github.com/user-attachments/assets/8fbf3cab-ae42-4110-8887-78792d62049c)
+![alt text](a_Output_16PercentF_Astar_Hff_Uniform/Image1.png) [alt text](README.md)
 
 # Michael's Output:
 ### Folder "a__Output_ANOVA" has Michael's ANOVA charts
