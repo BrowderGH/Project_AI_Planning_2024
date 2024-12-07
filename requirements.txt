@@ -1,0 +1,32 @@
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2bxpizxa3c/croot/bottleneck_1707864819812/work
+cloudpickle==3.1.0
+contourpy==1.3.0
+cycler==0.12.1
+Farama-Notifications==0.0.4
+fonttools==4.54.1
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==1.0.0
+imageio==2.36.0
+kiwisolver==1.4.7
+lazy_loader==0.4
+matplotlib==3.9.2
+-e git+https://github.com/Farama-Foundation/Minigrid.git@a6cfc0e12525778e354d43ab9bcc54402cb9d144#egg=minigrid
+networkx==3.4.2
+numexpr @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_45yefq0kt6/croot/numexpr_1696515289183/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp311-cp311-macosx_11_0_arm64.whl#sha256=3d90dd3382cff7becb2384f73058a8e72b81c697e8bb77f1c69a82caca5b0c57
+packaging==24.1
+pandas @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b53hgou29t/croot/pandas_1718308972393/work/dist/pandas-2.2.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=a5d15311899355b1b06bbc8e9c159537dc70abd2d98ee2d87eea721e83afa579
+pddlgym==0.0.7
+-e git+https://github.com/ronuchit/pddlgym_planners.git@d552c8a75a50a47f5ad46b1b55194254995331b2#egg=pddlgym_planners
+Pillow==9.5.0
+pygame==2.6.1
+pyparsing==3.2.0
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+scikit-image==0.24.0
+scipy==1.14.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tifffile==2024.9.20
+typing_extensions==4.12.2
+tzdata @ file:///croot/python-tzdata_1690578112552/work

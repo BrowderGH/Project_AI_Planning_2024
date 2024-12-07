@@ -1,0 +1,6 @@
+name:  gym
+dependencies:
+  - python=3.11.7
+  - numpy
+  - pandas
+  - pddlgym

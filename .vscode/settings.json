@@ -1,0 +1,6 @@
+{
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.tabSizingFixedMinWidth": 38,
+    "workbench.editor.wrapTabs": true
+}

@@ -1,0 +1,277 @@
+Instantiating FD with --alias seq-opt-lmcut 
+ 
+The search time for the plan is: 0.000469 seconds
+The total time for the plan is: 0.009163 seconds
+The number of nodes generated for this search is: 20.0
+The number of nodes expanded for this search is: 14.0
+ 
+ 
+******************************
+ 
+We just ran lookahead.  Thus, we have created plan 1.
+ 
+******************************
+ 
+Here are the number of planned actions: 14
+ 
+The planned actions are:
+ 0     moveto(loc-0-1:location)
+1     moveto(loc-0-2:location)
+2     moveto(loc-0-3:location)
+3     moveto(loc-0-4:location)
+4     moveto(loc-0-5:location)
+5     moveto(loc-0-6:location)
+6     moveto(loc-0-7:location)
+7     moveto(loc-1-7:location)
+8     moveto(loc-2-7:location)
+9     moveto(loc-3-7:location)
+10    moveto(loc-4-7:location)
+11    moveto(loc-5-7:location)
+12    moveto(loc-6-7:location)
+13    moveto(loc-6-6:location)
+dtype: object
+ 
+ 
+The list of planned destinations are:
+ 0     loc-0-1
+1     loc-0-2
+2     loc-0-3
+3     loc-0-4
+4     loc-0-5
+5     loc-0-6
+6     loc-0-7
+7     loc-1-7
+8     loc-2-7
+9     loc-3-7
+10    loc-4-7
+11    loc-5-7
+12    loc-6-7
+13    loc-6-6
+dtype: object
+ 
+ 
+We will now begin a series of actions:
+ 
+The next planned destination is: loc-0-1
+In the current state, we are looking for the following atom: free(loc-0-1:location)
+After reviewing our environment, we observe that the planned destination is not reachable.  Thus, we must make a new plan.
+ 
+Simulate = Failure
+ 
+Instantiating FD with --alias seq-opt-lmcut 
+ 
+The search time for the plan is: 0.000414 seconds
+The total time for the plan is: 0.002987 seconds
+The number of nodes generated for this search is: 19.0
+The number of nodes expanded for this search is: 14.0
+ 
+ 
+******************************
+ 
+We just ran lookahead.  Thus, we have created plan 2.
+ 
+******************************
+ 
+Here are the number of planned actions: 14
+ 
+The planned actions are:
+ 0     moveto(loc-1-0:location)
+1     moveto(loc-2-0:location)
+2     moveto(loc-3-0:location)
+3     moveto(loc-4-0:location)
+4     moveto(loc-5-0:location)
+5     moveto(loc-6-0:location)
+6     moveto(loc-7-0:location)
+7     moveto(loc-7-1:location)
+8     moveto(loc-7-2:location)
+9     moveto(loc-7-3:location)
+10    moveto(loc-7-4:location)
+11    moveto(loc-7-5:location)
+12    moveto(loc-7-6:location)
+13    moveto(loc-6-6:location)
+dtype: object
+ 
+ 
+The list of planned destinations are:
+ 0     loc-1-0
+1     loc-2-0
+2     loc-3-0
+3     loc-4-0
+4     loc-5-0
+5     loc-6-0
+6     loc-7-0
+7     loc-7-1
+8     loc-7-2
+9     loc-7-3
+10    loc-7-4
+11    loc-7-5
+12    loc-7-6
+13    loc-6-6
+dtype: object
+ 
+ 
+We will now begin a series of actions:
+ 
+The next planned destination is: loc-1-0
+In the current state, we are looking for the following atom: free(loc-1-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-1-0:location)
+ 
+Action Count: 1
+ 
+The next planned destination is: loc-2-0
+In the current state, we are looking for the following atom: free(loc-2-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-2-0:location)
+ 
+Action Count: 2
+ 
+The next planned destination is: loc-3-0
+In the current state, we are looking for the following atom: free(loc-3-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-3-0:location)
+ 
+Action Count: 3
+ 
+The next planned destination is: loc-4-0
+In the current state, we are looking for the following atom: free(loc-4-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-4-0:location)
+ 
+Action Count: 4
+ 
+The next planned destination is: loc-5-0
+In the current state, we are looking for the following atom: free(loc-5-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-5-0:location)
+ 
+Action Count: 5
+ 
+The next planned destination is: loc-6-0
+In the current state, we are looking for the following atom: free(loc-6-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-6-0:location)
+ 
+Action Count: 6
+ 
+The next planned destination is: loc-7-0
+In the current state, we are looking for the following atom: free(loc-7-0:location)
+After reviewing our environment, we observe that the planned destination is not reachable.  Thus, we must make a new plan.
+ 
+Simulate = Failure
+ 
+Instantiating FD with --alias seq-opt-lmcut 
+ 
+The search time for the plan is: 0.000708 seconds
+The total time for the plan is: 0.003227 seconds
+The number of nodes generated for this search is: 39.0
+The number of nodes expanded for this search is: 18.0
+ 
+ 
+******************************
+ 
+We just ran lookahead.  Thus, we have created plan 3.
+ 
+******************************
+ 
+Here are the number of planned actions: 16
+ 
+The planned actions are:
+ 0     moveto(loc-5-0:location)
+1     moveto(loc-4-0:location)
+2     moveto(loc-3-0:location)
+3     moveto(loc-2-0:location)
+4     moveto(loc-2-1:location)
+5     moveto(loc-2-2:location)
+6     moveto(loc-2-3:location)
+7     moveto(loc-3-3:location)
+8              pick(key-1:key)
+9     moveto(loc-3-4:location)
+10    moveto(loc-4-4:location)
+11             pick(key-2:key)
+12    moveto(loc-4-5:location)
+13    moveto(loc-5-5:location)
+14    moveto(loc-6-5:location)
+15    moveto(loc-6-6:location)
+dtype: object
+ 
+ 
+The list of planned destinations are:
+ 0     loc-5-0
+1     loc-4-0
+2     loc-3-0
+3     loc-2-0
+4     loc-2-1
+5     loc-2-2
+6     loc-2-3
+7     loc-3-3
+8          NA
+9     loc-3-4
+10    loc-4-4
+11         NA
+12    loc-4-5
+13    loc-5-5
+14    loc-6-5
+15    loc-6-6
+dtype: object
+ 
+ 
+We will now begin a series of actions:
+ 
+The next planned destination is: loc-5-0
+In the current state, we are looking for the following atom: free(loc-5-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-5-0:location)
+ 
+Action Count: 7
+ 
+The next planned destination is: loc-4-0
+In the current state, we are looking for the following atom: free(loc-4-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-4-0:location)
+ 
+Action Count: 8
+ 
+The next planned destination is: loc-3-0
+In the current state, we are looking for the following atom: free(loc-3-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-3-0:location)
+ 
+Action Count: 9
+ 
+The next planned destination is: loc-2-0
+In the current state, we are looking for the following atom: free(loc-2-0:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-2-0:location)
+ 
+Action Count: 10
+ 
+The next planned destination is: loc-2-1
+In the current state, we are looking for the following atom: free(loc-2-1:location)
+After reviewing our environment, we observe that the planned destination is in fact reachable.  Thus, we can proceed.
+ 
+ 
+The agent now performs this act: moveto(loc-2-1:location)
+ 
+Action Count: 11
+ 
